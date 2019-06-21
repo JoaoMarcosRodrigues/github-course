@@ -1,6 +1,7 @@
 #GitHub
 
-Teste para aprender a usar o git
+Este é um repositório teste para ensinar como Git funciona.
 
-Alguma coisaaaaaa!
 Saiba mais em iRent (http://irent.com.br)
+
+Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido!
